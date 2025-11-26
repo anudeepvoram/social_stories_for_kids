@@ -1,0 +1,7 @@
+streamlit
+groq
+Pillow
+requests
+gTTS
+python-dotenv
+mutagen
